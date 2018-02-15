@@ -3,7 +3,7 @@ Various items, used for RPing. Will create this to get myself back into coding a
 
 Coins: Copper, silver, electrum, gold, iron, and jeweled. Uses metadata. Useless outside of RPing
 
-Foodstuffs: Grilled watermelon. Somewhat useful. Food stuffs from the existing crops added here will be done as well.
+Foodstuffs: Grilled watermelon. Somewhat useful. Food stuffs from the existing crops added here will be done as well. Pine nuts, as well. They have a chance of applying nausea, however, unless cooked.
 
 Crops: Amaranth, goji berries, devil's claw, echinacea, saffron, coffee, wildberries (red, green, blue, yellow, magenta), valerian, physalis
 
