@@ -9,6 +9,8 @@ Crops: Amaranth, goji berries, devil's claw, echinacea, saffron, coffee, wildber
 
 Coin purse, has a small GUI, can store coins and other items.
 
+Banner patterns
+
 Loot table shenanigans
 
 Some things drop from leaves in addition to grass, ark style
