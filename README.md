@@ -11,6 +11,8 @@ Coin purse, has a small GUI, can store coins and other items.
 
 Banner patterns
 
+Ritual dagger that applies wither and weakness to targets
+
 Loot table shenanigans
 
 Some things drop from leaves in addition to grass, ark style
