@@ -17,6 +17,7 @@ Some things drop from leaves in addition to grass, ark style
 4. Coffee drops from acacia leaves
 5. Amaranth drops from grass and flowers
 6. Echinacea drops from flowers, as does saffron and valerian
+7. Pine nuts drop from spruce leaves
 
 
 _________________
