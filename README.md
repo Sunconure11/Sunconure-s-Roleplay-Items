@@ -1,5 +1,5 @@
 # Sunconure-s-Roleplay-Items
-Various items, used for RPing.
+Various items, used for RPing. Will create this to get myself back into coding a bit more, and also for usage in an experiment in trying a civcraft-type server in a modded environment.
 
 Coins: Copper, silver, electrum, gold, iron, and jeweled. Uses metadata. Useless outside of RPing
 
