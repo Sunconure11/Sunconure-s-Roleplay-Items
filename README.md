@@ -17,3 +17,12 @@ Some things drop from leaves in addition to grass, ark style
 4. Coffee drops from acacia leaves
 5. Amaranth drops from grass and flowers
 6. Echinacea drops from flowers, as does saffron and valerian
+
+
+_________________
+
+1. Devil's claw - Fiber crop
+2. Echinacea, Goji Berries, Valerian, and Coffee - Herbs with specific effects
+3. Wildberries and Physalis - Random food
+4. Saffron - Rare cash crop
+5. Amaranth - Grain
