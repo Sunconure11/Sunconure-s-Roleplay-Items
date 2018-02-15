@@ -11,9 +11,9 @@ Loot table shenanigans
 
 Some things drop from leaves in addition to grass, ark style
 
-Devil's Claw drops from dead bushes
-Goji berries, physalis and wildberries drop from grass
-Wildberries have a smaller chance of dropping from leaves
-Coffee drops from acacia leaves
-Amaranth drops from grass and flowers
-Echinacea drops from flowers, as does saffron and valerian
+1. Devil's Claw drops from dead bushes
+2. Goji berries, physalis and wildberries drop from grass
+3. Wildberries have a smaller chance of dropping from leaves
+4. Coffee drops from acacia leaves
+5. Amaranth drops from grass and flowers
+6. Echinacea drops from flowers, as does saffron and valerian
