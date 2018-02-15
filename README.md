@@ -7,6 +7,8 @@ Foodstuffs: Grilled watermelon. Somewhat useful. Food stuffs from the existing c
 
 Crops: Amaranth, goji berries, devil's claw, echinacea, saffron, coffee, wildberries (red, green, blue, yellow, magenta), valerian, physalis
 
+Coin purse, has a small GUI, can store coins and other items.
+
 Loot table shenanigans
 
 Some things drop from leaves in addition to grass, ark style
