@@ -5,7 +5,7 @@ Coins: Copper, silver, electrum, gold, iron, and jeweled. Uses metadata. Useless
 
 Foodstuffs: Grilled watermelon. Somewhat useful. Food stuffs from the existing crops added here will be done as well.
 
-Crops: Amaranth, goji berries, devil's claw, echinacea, saffron, coffee, wildberries (red, green, blue, yellow, magenta), valerian
+Crops: Amaranth, goji berries, devil's claw, echinacea, saffron, coffee, wildberries (red, green, blue, yellow, magenta), valerian, physalis
 
 Loot table shenanigans
 
