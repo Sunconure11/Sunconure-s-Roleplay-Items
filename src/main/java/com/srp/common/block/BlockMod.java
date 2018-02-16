@@ -2,6 +2,7 @@ package com.srp.common.block;
 
 import com.srp.client.handler.ModelHandler;
 import com.srp.common.api.helper.IModelRegister;
+import com.srp.common.core.SRPCreativeTabs;
 import com.srp.common.lib.LibMod;
 import net.minecraft.block.Block;
 import net.minecraft.block.SoundType;
@@ -21,7 +22,7 @@ public class BlockMod extends Block implements IModelRegister {
 		setUnlocalizedName(id);
 		setDefaultState(defaultState());
 		setRegistryName(LibMod.MOD_ID, id);
-		setCreativeTab(CreativeTabs.FOOD);
+		setCreativeTab(SRPCreativeTabs.ITEMS_AND_BLOCKS_TAB);
 	}
 
 	protected IBlockState defaultState() {
