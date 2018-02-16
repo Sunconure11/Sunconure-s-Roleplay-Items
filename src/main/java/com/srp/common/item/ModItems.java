@@ -1,6 +1,7 @@
 package com.srp.common.item;
 
 import com.srp.common.block.ModBlocks;
+import com.srp.common.core.SRPCreativeTabs;
 import com.srp.common.lib.LibItemName;
 import com.srp.common.lib.LibMod;
 import net.minecraft.block.Block;
@@ -25,8 +26,7 @@ public final class ModItems {
 
 	public static void register(final IForgeRegistry<Item> registry) {
 		registry.registerAll(
-				itemBlock(ModBlocks.test),
-				new ItemMod(LibItemName.COIN)
+				new ItemMod(LibItemName.COIN).setCreativeTab(SRPCreativeTabs.ITEMS_AND_BLOCKS_TAB)
 		);
 	}
 
