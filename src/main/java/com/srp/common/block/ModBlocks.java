@@ -15,6 +15,8 @@ import net.minecraftforge.registries.IForgeRegistry;
 public final class ModBlocks {
 
 	private static Block PLACE_HOLDER = new Block(Material.AIR);
+	//-----------------------------------------------------------//
+	public static final Block testblock = PLACE_HOLDER;
 
 	private ModBlocks() {
 

@@ -1,5 +1,6 @@
 package com.srp.common.item;
 
+import com.srp.common.block.ModBlocks;
 import com.srp.common.lib.LibMod;
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;
@@ -21,6 +22,7 @@ public final class ModItems {
 
 	public static void register(final IForgeRegistry<Item> registry) {
 		registry.registerAll(
+				itemBlock(ModBlocks.testblock)
 		);
 	}
 
