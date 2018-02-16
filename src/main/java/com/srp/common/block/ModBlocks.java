@@ -24,7 +24,6 @@ public final class ModBlocks {
 
 	public static void register(final IForgeRegistry<Block> registry) {
 		registry.registerAll(
-				new BlockMod(LibBlockName.TEST, Material.ROCK).setHardness(5.0F)
 		);
 	}
 
