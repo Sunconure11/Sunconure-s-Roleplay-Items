@@ -16,7 +16,7 @@ public final class ModBlocks {
 
 	private static Block PLACE_HOLDER = new Block(Material.AIR);
 	//-----------------------------------------------------------//
-	public static final Block testblock = PLACE_HOLDER;
+	public static final Block test = PLACE_HOLDER;
 
 	private ModBlocks() {
 
@@ -24,7 +24,7 @@ public final class ModBlocks {
 
 	public static void register(final IForgeRegistry<Block> registry) {
 		registry.registerAll(
-				new BlockMod(LibBlockName.TESTBLOCK, Material.ROCK).setHardness(5.0F)
+				new BlockMod(LibBlockName.TEST, Material.ROCK).setHardness(5.0F)
 		);
 	}
 

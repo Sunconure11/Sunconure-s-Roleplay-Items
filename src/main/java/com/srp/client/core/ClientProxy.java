@@ -35,6 +35,7 @@ public class ClientProxy implements ISidedProxy {
 		ModelHandler.registerModels();
 	}
 
+
 	@Override
 	public void preInit(FMLPreInitializationEvent event) {
 		registerRenders();

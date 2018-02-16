@@ -1,6 +1,7 @@
 package com.srp.common.item;
 
 import com.srp.common.block.ModBlocks;
+import com.srp.common.lib.LibItemName;
 import com.srp.common.lib.LibMod;
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;
@@ -16,13 +17,16 @@ import net.minecraftforge.registries.IForgeRegistry;
 @GameRegistry.ObjectHolder(LibMod.MOD_ID)
 public final class ModItems {
 	private static final Item PLACE_HOLDER = new Item();
+	//-----------------------------------------------------------//
+	public static final Item coin = PLACE_HOLDER;
 
 	private ModItems() {
 	}
 
 	public static void register(final IForgeRegistry<Item> registry) {
 		registry.registerAll(
-				itemBlock(ModBlocks.testblock)
+				itemBlock(ModBlocks.test),
+				new ItemMod(LibItemName.COIN)
 		);
 	}
 
