@@ -28,6 +28,10 @@ public final class ModItems {
 		registry.registerAll(
 				new ItemMod(LibItemName.COIN).setCreativeTab(SRPCreativeTabs.ITEMS_AND_BLOCKS_TAB)
 		);
+
+				registry.registerAll(
+				itemBlock(ModBlocks.test)
+		);
 	}
 
 	private static Item itemBlock(Block block) {
