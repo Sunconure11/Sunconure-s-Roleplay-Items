@@ -18,10 +18,12 @@ public final class ModItems {
 
 	private ModItems() {
 	}
+
 	public static void register(final IForgeRegistry<Item> registry) {
 		registry.registerAll(
 		);
 	}
+
 	private static Item itemBlock(Block block) {
 		if (block == null) {
 			throw new LoaderException("[" + LibMod.MOD_NAME + "] Trying to register an ItemBlock for a null block");
@@ -38,7 +40,7 @@ public final class ModItems {
 	public static void init() {
 		initOreDictionary();
 	}
-	
+
 	private static void initOreDictionary() {
 
 	}
