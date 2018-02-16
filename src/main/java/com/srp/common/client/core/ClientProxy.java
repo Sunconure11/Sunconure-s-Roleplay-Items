@@ -1,4 +1,4 @@
-package com.srp.common.client.handler.core;
+package com.srp.common.client.core;
 
 import com.srp.common.client.handler.ModelHandler;
 import com.srp.common.core.ISidedProxy;
