@@ -1,8 +1,10 @@
 package com.srp.common;
 
 import com.srp.common.block.ModBlocks;
+import com.srp.common.item.ModItems;
 import com.srp.common.lib.LibMod;
 import net.minecraft.block.Block;
+import net.minecraft.item.Item;
 import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
@@ -14,6 +16,10 @@ import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 public final class RegistryEvents {
 
 	private RegistryEvents() {
+	}
+
+	public static void registerItems(RegistryEvent.Register<Item> event) {
+		ModItems.register(event.getRegistry());
 	}
 
 	@SubscribeEvent
