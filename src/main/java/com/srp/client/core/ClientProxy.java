@@ -1,6 +1,6 @@
-package com.srp.common.client.core;
+package com.srp.client.core;
 
-import com.srp.common.client.handler.ModelHandler;
+import com.srp.client.handler.ModelHandler;
 import com.srp.common.core.ISidedProxy;
 import net.minecraft.client.Minecraft;
 import net.minecraft.util.text.ITextComponent;

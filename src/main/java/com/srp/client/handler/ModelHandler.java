@@ -1,4 +1,4 @@
-package com.srp.common.client.handler;
+package com.srp.client.handler;
 
 import com.srp.common.api.helper.IModelRegister;
 import net.minecraft.block.Block;
