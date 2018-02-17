@@ -5,7 +5,7 @@ Coins: Copper, silver, electrum, gold, iron, and jeweled. Uses metadata. Useless
 
 Foodstuffs: Grilled watermelon. Somewhat useful. Food stuffs from the existing crops added here will be done as well. Pine nuts, as well. They have a chance of applying nausea, however, unless cooked.
 
-Crops: Amaranth, goji berries, devil's claw, echinacea, saffron, coffee, wildberries (red, green, blue, yellow, magenta), valerian, physalis
+Crops: Amaranth, goji berries, devil's claw, echinacea, saffron, coffee, wildberries (red, green, blue, yellow, magenta, cyan), valerian, physalis
 
 Coin purse, has a small GUI, can store coins and other items.
 
