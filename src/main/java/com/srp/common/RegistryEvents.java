@@ -18,6 +18,7 @@ public final class RegistryEvents {
 	private RegistryEvents() {
 	}
 
+	@SubscribeEvent
 	public static void registerItems(RegistryEvent.Register<Item> event) {
 		ModItems.register(event.getRegistry());
 	}
