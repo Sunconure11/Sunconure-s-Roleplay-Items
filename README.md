@@ -25,7 +25,6 @@ Some things drop from leaves in addition to grass, ark style
 6. Echinacea drops from flowers, as does saffron and valerian
 7. Pine nuts drop from spruce leaves
 
-
 _________________
 
 1. Devil's claw - Fiber crop
@@ -33,3 +32,11 @@ _________________
 3. Wildberries and Physalis - Random food
 4. Saffron - Rare cash crop
 5. Amaranth - Grain
+
+_________________
+
+1. Valerian can be brewed into potions of mining fatigue
+2. Echinacea can be brewed into a potion that clears all effects, like milk
+3. Coffee can be brewed into potions of haste
+4. Goji berries can be brewed into potions of instant health.
+5. Pine nuts can be brewed into potions of nausea
