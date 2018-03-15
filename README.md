@@ -35,8 +35,8 @@ _________________
 
 _________________
 
-1. Valerian can be brewed into potions of mining fatigue
+1. Valerian can be brewed into potions of mining fatigue + slowness
 2. Echinacea can be brewed into a potion that clears all effects, like milk
-3. Coffee can be brewed into potions of haste
+3. Coffee can be brewed into potions of haste + speed
 4. Goji berries can be brewed into potions of instant health.
 5. Pine nuts can be brewed into potions of nausea
