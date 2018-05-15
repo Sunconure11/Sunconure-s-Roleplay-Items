@@ -8,7 +8,7 @@ package com.srp.common.lib;
 public final class LibMod {
 
 	//ID for MOD
-	public static final String MOD_ID = "sunsroleplayitems";
+	public static final String MOD_ID = "srp";
 
 	//Name of MOD
 	public static final String MOD_NAME = "Suns_Roleplay_Items";
