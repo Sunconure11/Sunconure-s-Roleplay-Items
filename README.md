@@ -5,7 +5,7 @@ Coins: Copper, silver, electrum, gold, iron, and jeweled. Uses metadata. Useless
 
 Foodstuffs: Grilled watermelon. Somewhat useful. Food stuffs from the existing crops added here will be done as well. Pine nuts, as well. They have a chance of applying nausea, however, unless cooked.
 
-Crops: Amaranth, goji berries, devil's claw, echinacea, saffron, coffee, wildberries (red, green, blue, yellow, magenta, cyan), valerian, physalis
+Crops: Amaranth, goji berries, devil's claw, echinacea, saffron, coffee, wildberries (red, green, blue, yellow, magenta, cyan), valerian, physalis, hemp, flax, cotton
 
 Coin purse, has a small GUI, can store coins and other items.
 
@@ -27,7 +27,7 @@ Some things drop from leaves in addition to grass, ark style
 
 _________________
 
-1. Devil's claw - Fiber crop
+1. Devil's claw, hemp, flax, cotton - Fiber crop
 2. Echinacea, Goji Berries, Valerian, and Coffee - Herbs with specific effects
 3. Wildberries and Physalis - Random food
 4. Saffron - Rare cash crop
