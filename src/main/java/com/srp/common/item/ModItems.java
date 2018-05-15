@@ -43,7 +43,6 @@ public final class ModItems {
 		);
 
 		registry.registerAll(
-				itemBlock(ModBlocks.test)
 		);
 	}
 
