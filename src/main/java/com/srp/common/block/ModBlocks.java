@@ -1,5 +1,6 @@
 package com.srp.common.block;
 
+import com.srp.common.block.natural.BlockCrop;
 import com.srp.common.lib.LibBlockName;
 import com.srp.common.lib.LibMod;
 import net.minecraft.block.Block;
@@ -18,7 +19,7 @@ public final class ModBlocks {
 	//-----------------------------------------------------------//
 	public static final Block test = PLACE_HOLDER;
 
-	public static final BlockCrop crop_aconitum = null;
+	public static final BlockCrop crop_cotton = null;
 
 	private ModBlocks() {
 
