@@ -20,6 +20,10 @@ public final class ModItems {
 	private static final Item PLACE_HOLDER = new Item();
 	//-----------------------------------------------------------//
 	public static final Item coin = PLACE_HOLDER;
+	public static final Item cotton = PLACE_HOLDER;
+	public static final Item flax = PLACE_HOLDER;
+	public static final Item hemp = PLACE_HOLDER;
+	public static final Item devils_claw = PLACE_HOLDER;
 
 	private ModItems() {
 	}
