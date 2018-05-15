@@ -24,6 +24,10 @@ public final class ModItems {
 	public static final Item flax = PLACE_HOLDER;
 	public static final Item hemp = PLACE_HOLDER;
 	public static final Item devils_claw = PLACE_HOLDER;
+	public static final Item seed_cotton = PLACE_HOLDER;
+	public static final Item seed_flax = PLACE_HOLDER;
+	public static final Item seed_hemp = PLACE_HOLDER;
+	public static final Item seed_devils_claw = PLACE_HOLDER;
 
 	private ModItems() {
 	}
