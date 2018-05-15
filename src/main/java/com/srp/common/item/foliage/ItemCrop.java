@@ -41,7 +41,7 @@ public class ItemCrop extends ItemModFood {
 	@Override
 	@SideOnly(Side.CLIENT)
 	public void addInformation(ItemStack stack, @Nullable World player, List<String> tooltip, ITooltipFlag advanced) {
-		tooltip.add(TextFormatting.ITALIC + I18n.format("witch.tooltip." + getNameInefficiently(stack) + "_description.name"));
+		tooltip.add(TextFormatting.ITALIC + I18n.format("srp.tooltip." + getNameInefficiently(stack) + "_description.name"));
 	}
 
 	public String getNameInefficiently(ItemStack stack) {

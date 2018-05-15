@@ -4,6 +4,7 @@ import com.srp.common.block.ModBlocks;
 import com.srp.common.core.ISidedProxy;
 import com.srp.common.item.ModItems;
 import com.srp.common.lib.LibMod;
+import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.fluids.FluidRegistry;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.SidedProxy;
@@ -33,6 +34,7 @@ public class SRP {
 
 	@Mod.EventHandler
 	public void preInit(FMLPreInitializationEvent event) {
+		MinecraftForge.EVENT_BUS.register(this);
 		proxy.preInit(event);
 
 		logger.info("Hope is your survival");
