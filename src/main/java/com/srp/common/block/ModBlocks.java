@@ -18,6 +18,8 @@ public final class ModBlocks {
 	//-----------------------------------------------------------//
 	public static final Block test = PLACE_HOLDER;
 
+	public static final BlockCrop crop_aconitum = null;
+
 	private ModBlocks() {
 
 	}
