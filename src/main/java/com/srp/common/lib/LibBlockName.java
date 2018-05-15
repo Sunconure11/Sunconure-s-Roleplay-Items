@@ -6,6 +6,8 @@ package com.srp.common.lib;
 public final class LibBlockName {
 	public static final String TEST = "test";
 
+	public static final String CROP_COTTON = "crop_cotton";
+
 	private LibBlockName() {
 	}
 }

@@ -3,17 +3,19 @@ package com.srp.common.item;
 import com.srp.client.core.IModelRegister;
 import com.srp.client.handler.ModelHandler;
 import com.srp.common.core.SRPCreativeTabs;
-import net.minecraft.item.Item;
+import net.minecraft.item.ItemFood;
 import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.relauncher.SideOnly;
 
 /**
- * Created by Joseph on 2/16/2018.
+ * This class was created by Arekkuusu on 28/02/2017.
+ * It's distributed as part of Bewitchment under
+ * the MIT license.
  */
-public class ItemMod extends Item implements IModelRegister {
+public class ItemModFood extends ItemFood implements IModelRegister {
 
-	public ItemMod(String id) {
-		super();
+	public ItemModFood(String id, int amount, float saturation, boolean isWolfFood) {
+		super(amount, saturation, isWolfFood);
 		setRegistryName(id);
 		setUnlocalizedName(id);
 		setCreativeTab(SRPCreativeTabs.ITEMS_AND_BLOCKS_TAB);

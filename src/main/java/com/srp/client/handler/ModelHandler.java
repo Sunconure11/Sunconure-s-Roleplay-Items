@@ -1,6 +1,6 @@
 package com.srp.client.handler;
 
-import com.srp.common.api.helper.IModelRegister;
+import com.srp.client.core.IModelRegister;
 import net.minecraft.block.Block;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.init.Items;

@@ -15,18 +15,18 @@ import net.minecraftforge.registries.IForgeRegistry;
 @GameRegistry.ObjectHolder(LibMod.MOD_ID)
 public final class ModBlocks {
 
+	public static final BlockCrop crop_cotton = null;
 	private static Block PLACE_HOLDER = new Block(Material.AIR);
 	//-----------------------------------------------------------//
 	public static final Block test = PLACE_HOLDER;
-
-	public static final BlockCrop crop_cotton = null;
 
 	private ModBlocks() {
 
 	}
 
 	public static void register(final IForgeRegistry<Block> registry) {
-		registry.registerAll(new BlockMod(LibBlockName.TEST, Material.ROCK).setHardness(5.0F)
+		registry.registerAll(new BlockMod(LibBlockName.TEST, Material.ROCK).setHardness(5.0F),
+				new BlockCrop(LibBlockName.CROP_COTTON)
 		);
 	}
 

@@ -1,6 +1,5 @@
 package com.srp.common.core;
 
-import com.srp.common.block.ModBlocks;
 import net.minecraft.block.Block;
 import net.minecraft.init.Blocks;
 

@@ -1,5 +1,6 @@
 package com.srp.common.item;
 
+import com.srp.common.api.helper.internalApi.CropRegistry;
 import com.srp.common.block.ModBlocks;
 import com.srp.common.core.SRPCreativeTabs;
 import com.srp.common.lib.LibItemName;
@@ -33,11 +34,15 @@ public final class ModItems {
 	}
 
 	public static void register(final IForgeRegistry<Item> registry) {
+		CropRegistry.getFoods().forEach((crop, item) -> registry.register(item));
+		CropRegistry.getSeeds().forEach((crop, item) -> registry.register(item));
 		registry.registerAll(
-				new ItemMod(LibItemName.COIN).setCreativeTab(SRPCreativeTabs.ITEMS_AND_BLOCKS_TAB)
+				new ItemMod(LibItemName.COIN).setCreativeTab(SRPCreativeTabs.ITEMS_AND_BLOCKS_TAB),
+				new ItemMod(LibItemName.COTTON).setCreativeTab(SRPCreativeTabs.ITEMS_AND_BLOCKS_TAB),
+				new ItemMod(LibItemName.SEED_COTTON).setCreativeTab(SRPCreativeTabs.ITEMS_AND_BLOCKS_TAB)
 		);
 
-				registry.registerAll(
+		registry.registerAll(
 				itemBlock(ModBlocks.test)
 		);
 	}

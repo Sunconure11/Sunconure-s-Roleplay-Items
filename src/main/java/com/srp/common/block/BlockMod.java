@@ -1,7 +1,7 @@
 package com.srp.common.block;
 
+import com.srp.client.core.IModelRegister;
 import com.srp.client.handler.ModelHandler;
-import com.srp.common.api.helper.IModelRegister;
 import com.srp.common.core.SRPCreativeTabs;
 import com.srp.common.lib.LibMod;
 import net.minecraft.block.Block;
